@@ -1,12 +1,14 @@
 ![My Image](Github_Bascat.jpg)
 
-welcome to my github repository!  
 
-## Blog
+## 안녕하세요 박시준입니다.
+welcome to my github repository! 
+
+## Blog 💾
 ![velog](https://img.shields.io/badge/-velog-brightgreen?style=for-the-badge&logo=velog&logoColor=white)  
 블로그 방문 링크
 
-## Skills
+## Skills 🛠
 ### framework
 ![Spring](https://img.shields.io/badge/-Spring-brightgreen?logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring%20boot&logoColor=white)
@@ -25,7 +27,7 @@ welcome to my github repository!
 ![postman](https://img.shields.io/badge/-postman-orange?logo=postman&logoColor=white)
 ![jira](https://img.shields.io/badge/-jira-blue?logo=jira&logoColor=white)
 
-## Gihub history
+## Gihub history 🎞
 
 ![stats graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=millwheel&theme=solarized)
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=millwheel&theme=solarized)
