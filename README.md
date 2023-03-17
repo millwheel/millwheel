@@ -3,6 +3,9 @@
 
 ## 안녕하세요 박시준입니다.
 welcome to my github repository! 
+💻 Now I'm deep into application design and beck-end programming.
+🎨 Though, I don't insist on specific area. sometimes I do front-end programming if it needed.
+😋 I am willing to use every method to solve the problems.
 
 ## Blog 💾
 ![velog](https://img.shields.io/badge/-velog-brightgreen?style=for-the-badge&logo=velog&logoColor=white)  
