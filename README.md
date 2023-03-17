@@ -34,5 +34,3 @@ othertools
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=millwheel&theme=solarized)
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=millwheel&theme=solarized)
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=millwheel&theme=solarized&utcOffset=8)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=millwheel)](https://github.com/ryo-ma/github-profile-trophy)
