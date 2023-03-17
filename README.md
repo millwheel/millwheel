@@ -10,13 +10,17 @@
 
 ### DB
 ![mongo](https://img.shields.io/badge/-mongoDB-3CB371?logo=mongodb&logoColor=white)
-![cassandra](https://img.shields.io/badge/-cassandra-blue?logo=cassandra&logoColor=white)
+![cassandra](https://img.shields.io/badge/-cassandra-blue?logo=apache&logoColor=white)
 ![redis](https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white)
 ![mysql](https://img.shields.io/badge/-mysql-4682B4?logo=mysql&logoColor=white)
 
 ### other tools
-![AWS](https://img.shields.io/badge/-aws-orange?logo=aws&logoColor=white)
+![git](https://img.shields.io/badge/-git-red?logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/-aws-orange?logo=amazon&logoColor=white)
 ![Docker](https://img.shields.io/badge/-docker-blue?logo=docker&logoColor=white)
+![insomnia](https://img.shields.io/badge/-insomnia-8A2BE2?logo=insomnia&logoColor=white)
+![postman](https://img.shields.io/badge/-postman-orange?logo=postman&logoColor=white)
+![jira](https://img.shields.io/badge/-jira-blue?logo=jira&logoColor=white)
 
 
 
