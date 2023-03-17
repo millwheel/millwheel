@@ -2,7 +2,7 @@
 
 
 ## 안녕하세요 박시준입니다.
-welcome to my github repository! 
+welcome to my github repository!   
 💻 Now I'm deep into application design and beck-end programming.  
 🎨 Though, I don't insist on specific area. sometimes I do front-end programming if it needed.  
 😋 I am willing to use every method to solve the problems.  
