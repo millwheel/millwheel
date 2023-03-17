@@ -4,7 +4,7 @@
 
 ### language
 ![Spring](https://img.shields.io/badge/-Spring-brightgreen?logo=spring&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring%20bootlogoColor=white)
+![Spring](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring%20boot&logoColor=white)
 
 
 ### DB
