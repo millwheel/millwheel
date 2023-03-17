@@ -2,14 +2,23 @@
 
 ## Skills
 
-### language
+### framework
 ![Spring](https://img.shields.io/badge/-Spring-brightgreen?logo=spring&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring%20boot&logoColor=white)
-
+![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring%20boot&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-NodeJS-green?logo=nodedotjs&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJS-00BFFF?logo=react&logoColor=white)
 
 ### DB
+![mongo](https://img.shields.io/badge/-mongoDB-3CB371?logo=mongodb&logoColor=white)
+![cassandra](https://img.shields.io/badge/-cassandra-blue?logo=cassandra&logoColor=white)
+![redis](https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white)
+![mysql](https://img.shields.io/badge/-mysql-4682B4?logo=mysql&logoColor=white)
 
 ### other tools
+![AWS](https://img.shields.io/badge/-aws-orange?logo=aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-docker-blue?logo=docker&logoColor=white)
+
+
 
 ## Gihub history
 
