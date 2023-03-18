@@ -5,7 +5,7 @@
 welcome to my github repository!   
 💻 Now I'm deep into application design and beck-end programming using spring framework.  
 🎨 Though, I don't insist on specific area and technology.   
-😋 I am willing to use any method to solve the problems. sometimes I do front-end programming if it needed.  
+😋 I am willing to use any method to solve the problems. sometimes I do front-end programming if it is needed.  
 
 ## Blog 💾
 ![velog](https://img.shields.io/badge/-velog-brightgreen?style=for-the-badge&logo=velog&logoColor=white)  
