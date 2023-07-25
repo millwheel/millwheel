@@ -1,11 +1,11 @@
 ![My Image](Github_Bascat.jpg)
 
 
-## 안녕하세요 박시준입니다.
+## Hello I'm Sijun
 welcome to my github repository!   
 💻 Now I'm deep into application design and beck-end programming using spring framework.  
 🎨 Though, I don't insist on specific area and technology.   
-😋 I am willing to use any method to solve the problems. sometimes I do front-end programming if it is needed.  
+😋 I am willing to use any method to solve the problems.
 
 ## Blog 💾
 ![velog](https://img.shields.io/badge/-velog-brightgreen?style=for-the-badge&logo=velog&logoColor=white)  
