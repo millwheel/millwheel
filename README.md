@@ -8,7 +8,7 @@ welcome to my github repository!
 😋 I am willing to use any method to solve the problems.
 
 ## Blog 💾
-![velog](https://img.shields.io/badge/-velog-brightgreen?style=for-the-badge&logo=velog&logoColor=white)  <-블로그 방문 링크
+![velog](https://img.shields.io/badge/-velog-brightgreen?style=for-the-badge&logo=velog&logoColor=white)  블로그 방문 링크
 
 ## Skills 🛠
 framework  
