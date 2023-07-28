@@ -25,7 +25,6 @@ othertools
 ![git](https://img.shields.io/badge/-git-red?logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/-aws-orange?logo=amazon&logoColor=white)
 ![Docker](https://img.shields.io/badge/-docker-blue?logo=docker&logoColor=white)
-![insomnia](https://img.shields.io/badge/-insomnia-8A2BE2?logo=insomnia&logoColor=white)
 ![postman](https://img.shields.io/badge/-postman-orange?logo=postman&logoColor=white)
 ![jira](https://img.shields.io/badge/-jira-blue?logo=jira&logoColor=white)
 
