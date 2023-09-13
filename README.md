@@ -12,21 +12,21 @@ welcome to my github repository!
 
 ## Skills 🛠
 framework  
-![Spring](https://img.shields.io/badge/-Spring-brightgreen?logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring%20boot&logoColor=white)
+![django](https://img.shields.io/badge/-Django-blue?logo=django&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-green?logo=nodedotjs&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-00BFFF?logo=react&logoColor=white)  
 DB  
 ![mongo](https://img.shields.io/badge/-mongoDB-3CB371?logo=mongodb&logoColor=white)
-![cassandra](https://img.shields.io/badge/-cassandra-blue?logo=apache&logoColor=white)
 ![redis](https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white)
-![mysql](https://img.shields.io/badge/-mysql-4682B4?logo=mysql&logoColor=white)  
+![mysql](https://img.shields.io/badge/-mysql-4682B4?logo=mysql&logoColor=white)
+![dynamodb](https://img.shields.io/badge/-dynamodb-08298A?logo=amazondynamodb&logoColor=white)   
 othertools  
 ![git](https://img.shields.io/badge/-git-red?logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/-aws-orange?logo=amazon&logoColor=white)
 ![Docker](https://img.shields.io/badge/-docker-blue?logo=docker&logoColor=white)
 ![postman](https://img.shields.io/badge/-postman-orange?logo=postman&logoColor=white)
-![jira](https://img.shields.io/badge/-jira-blue?logo=jira&logoColor=white)
+![Kafka](https://img.shields.io/badge/-kafka-black?logo=apachekafka&logoColor=white)
 
 ## Gihub history 🎞
 
