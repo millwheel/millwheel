@@ -3,9 +3,9 @@
 
 ## Hello I'm Sijun
 welcome to my github repository!   
-💻 Now I'm deep into application design and beck-end programming using spring framework.  
-🎨 Though, I don't insist on specific area and technology.   
-😋 I am willing to use any method to solve the problems.
+💻 Now I'm deep into beck-end programming using spring boot & security.
+🎨 Though, I don't insist on specific area and technology. I really like learning new technology.
+😋 I am willing to use any tools to solve the problems.
 
 ## Blog 💾
 https://velog.io/@millwheel
