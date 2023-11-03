@@ -8,7 +8,7 @@ welcome to my github repository!
 😋 I am willing to use any method to solve the problems.
 
 ## Blog 💾
-![velog](https://velog.io/@millwheel).
+https://velog.io/@millwheel
 
 ## Skills 🛠
 framework  
