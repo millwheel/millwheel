@@ -3,7 +3,7 @@
 
 ## Hello I'm Sijun
 welcome to my github repository!   
-💻 Now I'm deep into beck-end programming using spring boot & nestjs
+💻 Now I'm deep into beck-end programming using spring boot & nestjs  
 🎨 Though, I don't insist on specific area and technology. I really like learning new technology.  
 😋 I am willing to use any tools to solve the problems.
 
