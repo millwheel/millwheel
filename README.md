@@ -1,4 +1,3 @@
-![My Image](Github_Bascat.jpg)
 
 
 ## Hello I'm Sijun
