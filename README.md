@@ -14,7 +14,7 @@ framework
 ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring%20boot&logoColor=white)
 ![django](https://img.shields.io/badge/-Django-blue?logo=django&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-green?logo=nodedotjs&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-ReactJS-00BFFF?logo=react&logoColor=white)  
+![ReactJS](https://img.shields.io/badge/-ReactJS-00BFFF?logo=react&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-e0234e?logo=nestJS&logoColor=white)  
 DB  
 ![mongo](https://img.shields.io/badge/-mongoDB-3CB371?logo=mongodb&logoColor=white)
