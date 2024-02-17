@@ -15,10 +15,11 @@ framework
 ![django](https://img.shields.io/badge/-Django-blue?logo=django&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-green?logo=nodedotjs&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-00BFFF?logo=react&logoColor=white)  
+![NestJS](https://img.shields.io/badge/-NestJS-e0234e?logo=nestJS&logoColor=white)  
 DB  
 ![mongo](https://img.shields.io/badge/-mongoDB-3CB371?logo=mongodb&logoColor=white)
 ![redis](https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white)
-![mysql](https://img.shields.io/badge/-mysql-4682B4?logo=mysql&logoColor=white)
+![postgresql](https://img.shields.io/badge/-postgres-4682B4?logo=postgresql&logoColor=white)
 ![dynamodb](https://img.shields.io/badge/-dynamodb-08298A?logo=amazondynamodb&logoColor=white)   
 othertools  
 ![git](https://img.shields.io/badge/-git-red?logo=git&logoColor=white)
