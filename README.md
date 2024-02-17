@@ -1,9 +1,9 @@
 
 
 ## Hello I'm Sijun
-welcome to my github repository!   
-💻 Now I'm deep into beck-end programming using spring boot & nestjs  
-🎨 Though, I don't insist on specific area and technology. I really like learning new technology.  
+Welcome to my github repository!   
+💻 Now I'm deep into beck-end programming using spring boot.
+🎨 Though, I don't insist on specific area and technology. 
 😋 I am willing to use any tools to solve the problems.
 
 ## Blog 💾
