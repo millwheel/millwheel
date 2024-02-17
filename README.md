@@ -2,9 +2,9 @@
 
 ## Hello I'm Sijun
 Welcome to my github repository!   
-💻 Now I'm deep into beck-end programming using spring boot.
-🎨 Though, I don't insist on specific area and technology. 
-😋 I am willing to use any tools to solve the problems.
+💻 Now I'm deep into beck-end programming using spring boot.  
+🎨 Though, I don't insist on specific area and technology.   
+😋 I am willing to use any tools to solve the problems.  
 
 ## Blog 💾
 https://velog.io/@millwheel
