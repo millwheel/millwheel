@@ -7,7 +7,8 @@ Welcome to my github repository!
 😋 I am willing to use any tools to solve the problems.  
 
 ## Blog 💾
-https://velog.io/@millwheel
+[https://bascat-code.tistory.com/](https://bascat-code.tistory.com/)
+This blog is written as Korean
 
 ## Skills 🛠
 framework  
