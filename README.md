@@ -10,11 +10,9 @@ Welcome to my github repository!
 [https://bascat-code.tistory.com/](https://bascat-code.tistory.com/)
 This blog is written as Korean
 
-## Skills 🛠
+## Skills 🛠  
 framework  
 ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring%20boot&logoColor=white)
-![django](https://img.shields.io/badge/-Django-blue?logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-NodeJS-green?logo=nodedotjs&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-00BFFF?logo=react&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-e0234e?logo=nestJS&logoColor=white)  
 DB  
@@ -27,7 +25,7 @@ othertools
 ![AWS](https://img.shields.io/badge/-aws-orange?logo=amazon&logoColor=white)
 ![Docker](https://img.shields.io/badge/-docker-blue?logo=docker&logoColor=white)
 ![postman](https://img.shields.io/badge/-postman-orange?logo=postman&logoColor=white)
-![Kafka](https://img.shields.io/badge/-kafka-black?logo=apachekafka&logoColor=white)
+![hoppscotch](https://img.shields.io/badge/-hoppscotch-blue?logo=hoppscotch&logoColor=white)
 
 ## Gihub history 🎞
 
