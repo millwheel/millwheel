@@ -15,11 +15,11 @@ DB
 ![mongo](https://img.shields.io/badge/-mongoDB-3CB371?logo=mongodb&logoColor=white)
 ![redis](https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white)
 ![postgresql](https://img.shields.io/badge/-postgres-4682B4?logo=postgresql&logoColor=white)
-![dynamodb](https://img.shields.io/badge/-dynamodb-08298A?logo=amazondynamodb&logoColor=white)   
+![Firebase](https://img.shields.io/badge/-firebase-yellow?logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/-supabase-40C79A?logo=supabase&logoColor=white)
 othertools  
 ![git](https://img.shields.io/badge/-git-red?logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/-aws-orange?logo=amazon&logoColor=white)
-![Firebase](https://img.shields.io/badge/-firebase-yellow?logo=firebase&logoColor=white)
 ![Docker](https://img.shields.io/badge/-docker-blue?logo=docker&logoColor=white)
 ![postman](https://img.shields.io/badge/-postman-orange?logo=postman&logoColor=white)
 ![hoppscotch](https://img.shields.io/badge/-hoppscotch-449E84?logo=hoppscotch&logoColor=white)
